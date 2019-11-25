@@ -18,9 +18,9 @@ python train.py --help
 
 Results after 50 epochs:
 
-![Results After 50 Epochs](https://raw.github.com/WangZesen/WGAN-GP-Tensorflow-v2/samples/50.jpg)
+![Results After 50 Epochs](https://github.com/WangZesen/WGAN-GP-Tensorflow-v2/blob/master/samples/50.jpg?raw=true)
 
 Samples during training:
 
-![Samples During Training](https://raw.github.com/WangZesen/WGAN-GP-Tensorflow-v2/result.git)
+![Samples During Training](https://github.com/WangZesen/WGAN-GP-Tensorflow-v2/blob/master/result.gif?raw=true)
 
